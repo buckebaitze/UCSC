@@ -1,0 +1,95 @@
+track Cerebellum_10
+bigDataUrl ../KO_hub/mA10-Cerebellum_Aligned.sortedByCoord.out.bam.bw
+shortLabel Cerebellum_10
+longLabel Cerebellum_10
+type bigWig 
+
+track Cerebellum_11
+bigDataUrl ../KO_hub/mA11-Cerebellum_Aligned.sortedByCoord.out.bam.bw
+shortLabel Cerebellum_11
+longLabel Cerebellum_11
+type bigWig
+
+track Cerebellum_15
+bigDataUrl ../KO_hub/mA15-Cerebellum_Aligned.sortedByCoord.out.bam.bw
+shortLabel Cerebellum_15
+longLabel Cerebellum_15
+type bigWig
+
+track Cerebellum_04
+bigDataUrl ../KO_hub/mA4-Cerebellum_Aligned.sortedByCoord.out.bam.bw
+shortLabel Cerebellum_04
+longLabel Cerebellum_04
+type bigWig
+
+track Cerebellum_05
+bigDataUrl ../KO_hub/mA5-Cerebellum_Aligned.sortedByCoord.out.bam.bw
+shortLabel Cerebellum_05
+longLabel Cerebellum_05
+type bigWig
+
+track Hippocampus_10
+bigDataUrl ../KO_hub/mA10-Hippocampus_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_10
+longLabel Hippocampus_10
+type bigWig
+
+track Hippocampus_11
+bigDataUrl ../KO_hub/mA11-Hippocampus_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_11
+longLabel Hippocampus_11
+type bigWig
+
+track Hippocampus_15_1
+bigDataUrl ../KO_hub/mA15-Hippocampus1_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_15_1
+longLabel Hippocampus_15_1
+type bigWig
+
+track Hippocampus_15_2
+bigDataUrl ../KO_hub/mA15-Hippocampus2_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_15_2
+longLabel Hippocampus_15_2
+type bigWig
+
+track Hippocampus_04
+bigDataUrl ../KO_hub/mA4-Hippocampus_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_04
+longLabel Hippocampus_04
+type bigWig
+
+track Hippocampus_05
+bigDataUrl ../KO_hub/mA5-Hippocampus_Aligned.sortedByCoord.out.bam.bw
+shortLabel Hippocampus_05
+longLabel Hippocampus_05
+type bigWig
+
+track OlfactoryBulb_15_1
+bigDataUrl ../KO_hub/mA15-Olfacoty-Bulb_Aligned.sortedByCoord.out.bam.bw
+shortLabel OlfactoryBulb_15_1
+longLabel OlfactoryBulb_15_1
+type bigWig
+
+track OlfactoryBulb_15_2
+bigDataUrl ../KO_hub/mA15-Olfacoty-Bulb2_Aligned.sortedByCoord.out.bam.bw
+shortLabel OlfactoryBulb_15_2
+longLabel OlfactoryBulb_15_2
+type bigWig
+
+track OlfactoryBulb_04_1
+bigDataUrl ../KO_hub/mA4-Olfactory-bulb_1_Aligned.sortedByCoord.out.bam.bw
+shortLabel OlfactoryBulb_04_1
+longLabel OlfactoryBulb_04_1
+type bigWig
+
+track OlfactoryBulb_04_2
+bigDataUrl ../KO_hub/mA4-Olfactory-bulb_2_Aligned.sortedByCoord.out.bam.bw
+shortLabel OlfactoryBulb_04_2
+longLabel OlfactoryBulb_04_2
+type bigWig
+
+track OlfactoryBulb_05
+bigDataUrl ../KO_hub/mA5-Olfactory-Bulb_Aligned.sortedByCoord.out.bam.bw
+shortLabel OlfactoryBulb_05
+longLabel OlfactoryBulb_05
+type bigWig

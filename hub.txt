@@ -1,0 +1,6 @@
+hub KO_hub
+shortLabel KO_Mouse
+longLabel hub_long_label
+genomesFile genomes_filelist
+email kathrin.radscheit@mdc-berlin.de
+descriptionUrl KO_hub.html
